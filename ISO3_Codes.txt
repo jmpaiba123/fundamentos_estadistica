@@ -179,7 +179,7 @@ PLW;Palau
 PNG;Papua New Guinea
 POL;Poland
 PRI;Puerto Rico
-PRK;Korea, Democratic People's Republic of
+PRK;Korea, Democratic Republic
 PRT;Portugal
 PRY;Paraguay
 PSE;Palestine, State of
